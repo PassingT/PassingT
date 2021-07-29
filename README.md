@@ -9,7 +9,7 @@
 
 <hr>
 
-###Fundamentos e tipos de testes
+### Fundamentos e tipos de testes
  * [O que é teste ?](./docs/conceito-de-teste/conceito-de-teste.md)
  - Tipos de testes:
    * [White box](#white-box)
