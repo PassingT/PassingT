@@ -10,11 +10,11 @@
 <hr>
 
 ### Fundamentos e tipos de testes
- * [O que é teste ?](./docs/conceito-de-teste/conceito-de-teste.md)
+ * [O que é teste ?(Em desenv.)](./docs/conceito-de-teste/conceito-de-teste.md)
  - Tipos de testes:
-   * [White box](#white-box)
-   * [Gray box](#gray-box)
-   * [Black box](#black-box) 
+   * [White box (Em desenv.)](#white-box)
+   * [Gray box (Em desenv.)](#gray-box)
+   * [Black box (Em desenv.)](#black-box) 
 
 
 
